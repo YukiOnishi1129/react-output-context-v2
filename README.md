@@ -2,7 +2,7 @@
 
 React アウトプットサンプル
 
-useState, Props のみの状態管理で作成した Todo リストに対し、コンポーネントに定義した状態とロジックをカスタムフックに以降したアプリケーション
+状態管理を context API を使用した構成
 
 url はこちら
 https://yukionishi1129.github.io/react-output-context-v2
